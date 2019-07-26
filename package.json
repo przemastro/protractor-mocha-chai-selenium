@@ -1,0 +1,29 @@
+{
+  "name": "poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chai-http": "^4.2.1",
+    "supertest": "^4.0.0",
+    "ts-node": "^8.0.3",
+    "typings": "^2.1.1"
+  },
+  "devDependencies": {
+    "@types/chai-http": "^3.0.5",
+    "@types/mocha": "^5.2.6",
+    "@types/node": "^11.11.0",
+    "mocha": "^6.0.2",
+    "protractor": "^5.4.2",
+    "request": "^2.88.0",
+    "typescript": "^3.3.3333"
+  },
+  "scripts": {
+    "testUI": "./node_modules/.bin/protractor config.js",
+    "test": "mocha -r ts-node/register ./Specs/apiTest.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
