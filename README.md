@@ -1,4 +1,4 @@
-# JavaScript UI/API Test Framework
+# TypeScript and JavaScript UI/API Test Framework
 [![GitHub issues](https://img.shields.io/github/issues/przemastro/protractor-mocha-chai-selenium)](https://github.com/przemastro/protractor-mocha-chai-selenium/issues)
 [![GitHub forks](https://img.shields.io/github/forks/przemastro/protractor-mocha-chai-selenium)](https://github.com/przemastro/protractor-mocha-chai-selenium/network)
 [![GitHub stars](https://img.shields.io/github/stars/przemastro/protractor-mocha-chai-selenium)](https://github.com/przemastro/protractor-mocha-chai-selenium/stargazers)
