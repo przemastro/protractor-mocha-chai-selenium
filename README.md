@@ -12,13 +12,11 @@ A tiny framework written in typescript for UI and API testing
 
 # Installation
 
-1. Open repo in your favourite IDE (I use Intellij because of built-in Maven) and set Project SDK to "java version 1.8.0_*"
-2. Right click on pom.xml and set MAVEN project, you might need to re-import maven dependencies
+1. npm install to build node_modules
 
 # Run
 
-1. npm install to build node_modules
-2. UI Tests - update config.js with appropriate path and run "protractor config.js"
-3. API Tests - run "npm test" in Specs folder
+1. UI Tests - update config.js with appropriate path and run "protractor config.js"
+2. API Tests - run "npm test" in Specs folder
 
 
